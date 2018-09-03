@@ -1,0 +1,4 @@
+syntax on
+
+inoremap jk <ESC>
+let mapleader = "<Space>"
